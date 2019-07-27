@@ -1,0 +1,19 @@
+D:\Karolina\Pulpit\Fantasy.Quiz\Fantasy.Quiz\bin\Debug\Fantasy.Quiz.exe.config
+D:\Karolina\Pulpit\Fantasy.Quiz\Fantasy.Quiz\bin\Debug\Fantasy.Quiz.exe
+D:\Karolina\Pulpit\Fantasy.Quiz\Fantasy.Quiz\bin\Debug\Fantasy.Quiz.pdb
+D:\Karolina\Pulpit\Fantasy.Quiz\Fantasy.Quiz\bin\Debug\Fantasy.Quiz.Biblioteka.dll
+D:\Karolina\Pulpit\Fantasy.Quiz\Fantasy.Quiz\bin\Debug\Fantasy.Quiz.Biblioteka.pdb
+D:\Karolina\Pulpit\Fantasy.Quiz\Fantasy.Quiz\obj\Debug\Fantasy.Quiz.csprojResolveAssemblyReference.cache
+D:\Karolina\Pulpit\Fantasy.Quiz\Fantasy.Quiz\obj\Debug\Fantasy.Quiz.csproj.CoreCompileInputs.cache
+D:\Karolina\Pulpit\Fantasy.Quiz\Fantasy.Quiz\obj\Debug\Fantasy.Quiz.exe
+D:\Karolina\Pulpit\Fantasy.Quiz\Fantasy.Quiz\obj\Debug\Fantasy.Quiz.pdb
+C:\Users\kstepien\Desktop\pendrive\PROGRAMWOANIE SEM 3\Fantasy.Quiz\Fantasy.Quiz\bin\Debug\Fantasy.Quiz.exe.config
+C:\Users\kstepien\Desktop\pendrive\PROGRAMWOANIE SEM 3\Fantasy.Quiz\Fantasy.Quiz\bin\Debug\Fantasy.Quiz.exe
+C:\Users\kstepien\Desktop\pendrive\PROGRAMWOANIE SEM 3\Fantasy.Quiz\Fantasy.Quiz\bin\Debug\Fantasy.Quiz.pdb
+C:\Users\kstepien\Desktop\pendrive\PROGRAMWOANIE SEM 3\Fantasy.Quiz\Fantasy.Quiz\bin\Debug\Fantasy.Quiz.Biblioteka.dll
+C:\Users\kstepien\Desktop\pendrive\PROGRAMWOANIE SEM 3\Fantasy.Quiz\Fantasy.Quiz\bin\Debug\Fantasy.Quiz.Biblioteka.pdb
+C:\Users\kstepien\Desktop\pendrive\PROGRAMWOANIE SEM 3\Fantasy.Quiz\Fantasy.Quiz\obj\Debug\Fantasy.Quiz.csprojAssemblyReference.cache
+C:\Users\kstepien\Desktop\pendrive\PROGRAMWOANIE SEM 3\Fantasy.Quiz\Fantasy.Quiz\obj\Debug\Fantasy.Quiz.csproj.CoreCompileInputs.cache
+C:\Users\kstepien\Desktop\pendrive\PROGRAMWOANIE SEM 3\Fantasy.Quiz\Fantasy.Quiz\obj\Debug\Fantasy.Quiz.csproj.CopyComplete
+C:\Users\kstepien\Desktop\pendrive\PROGRAMWOANIE SEM 3\Fantasy.Quiz\Fantasy.Quiz\obj\Debug\Fantasy.Quiz.exe
+C:\Users\kstepien\Desktop\pendrive\PROGRAMWOANIE SEM 3\Fantasy.Quiz\Fantasy.Quiz\obj\Debug\Fantasy.Quiz.pdb
